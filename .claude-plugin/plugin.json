@@ -1,0 +1,6 @@
+{
+  "name": "gpu-monitor",
+  "version": "0.1.0",
+  "description": "A side pane showing nvidia-smi GPU memory, utilization and processes, refreshed every 2 s; toggled with /gpu",
+  "types": "./types/index.d.ts"
+}

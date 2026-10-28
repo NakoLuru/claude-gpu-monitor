@@ -1,0 +1,5 @@
+{
+  "name": "claude-gpu-monitor",
+  "owner": { "name": "NakoLuru" },
+  "plugins": [{ "name": "gpu-monitor", "source": "./" }]
+}
